@@ -1,27 +1,27 @@
-.App{
+.App {
   background-color: #111;
 }
 
 /* Width */
-::-webkit-scrollbar{
+::-webkit-scrollbar {
   margin-top: 10px;
   width: 7px;
   height: 6px;
 }
 
 /* Track */
-::-webkit-scrollbar-track{
+::-webkit-scrollbar-track {
   box-shadow: inset 0 0 5px rgb(0, 0, 0);
   border-radius: 10px;
 }
 
 /* Handle */
-::-webkit-scrollbar-thumb{
+::-webkit-scrollbar-thumb {
   background: #d80000;
   border-radius: 10px;
 }
 
 /* Handle on hover */
-::-webkit-scrollbar-thumb:hover{
+::-webkit-scrollbar-thumb:hover {
   background: #8a0101;
 }
